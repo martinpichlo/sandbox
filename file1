@@ -11,8 +11,8 @@
 #noch eine
 #noch eine
 
-#feature3
-#zweite zeile
+
+<<<<<<< HEAD
 
 #feature 4
 #feature4-2
@@ -21,3 +21,8 @@
 #feature 5
 #feature5-2
 #feature5-3
+=======
+#feature3
+#zweite zeile
+#dritte zeile
+>>>>>>> feature3-3
